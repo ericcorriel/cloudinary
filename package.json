@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/cloudinary",
+  "name": "@ericcorriel/cloudinary",
   "version": "3.0.1",
   "description": "Cloudinary module for Nuxt",
   "license": "MIT",
@@ -11,7 +11,7 @@
       "require": "./dist/module.cjs"
     }
   },
-  "repository": "nuxt-modules/cloudinary",
+  "repository": "ericcorriel/cloudinary",
   "contributors": [
     {
       "name": "Jakub Andrzejewski <jakub.andrzejewski.dev@gmail.com>"
