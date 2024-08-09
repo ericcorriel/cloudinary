@@ -247,6 +247,8 @@ useHead({
       :width="width"
       :height="height"
       :disableRemotePlayback="disableRemotePlayback"
+      autoplay="autoplay"
+      controls="controls"
     />
   </div>
 </template>
